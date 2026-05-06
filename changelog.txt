@@ -1,0 +1,17 @@
+[scale=0.75][color=#0000ff]v3.13.0[/color][/scale]
+[color=#000000]
+Hello dear builders and players! We know it has been a while, but we finally got another update for you ready!
+
+New additions include:
+- Boo Blocks, which turn rock solid when you face them!
+- Bumble Bees, an enemy from Yoshi's Story that flies at you in a customizable sinusoidal pattern!
+- Dice Switches and Dice Blocks, essentially ON/OFF blocks.
+- More post variants and... also spikey versions of posts!
+- The Wasteland tileset from world 6 of Yoshi's Island.
+- A custom made Desert tileset by Cereal Lee, which includes 2 new backgrounds as well!
+- A completely overhauled pause menu with many new options!
+- Lots of other new tiles, decorations, misc. changes, etc.!
+
+Naturally there's some bug fixes as well.
+Happy playing and building!
+[/color]

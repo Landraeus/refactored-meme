@@ -1,0 +1,22 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "Music1": "Flower Garden | 1.95 | 0",
+        "Music2": "Tutorial | 0 | 0",
+        "Music3": "Overworld | 0 | 0",
+        "Music4": "Athletic | 3.55 | 0",
+        "Music5": "Castle / Fortress | 18.30 | 0",
+        "Music6": "Underground | 2.50 | 0",
+        "Music7": "Title Theme | 89.14 | 0",
+        "Music8": "Title Theme (No Intro) | 58.97 | 0",
+        "Music9": "Intro Cutscene | 25.02 | 0",
+        "Music10": "Room Before Boss | 0 | 0",
+        "Music11": "Story Music Box (No Intro) | 0 | -4",
+        "Music12": "Bonus Game (No Intro) | 0 | -1.5",
+        "Music13": "Title Theme (Snowy) | 75 | -7.5",
+        "Music14": "Title Theme (Spooky) | 0",
+        "LevelSelectMusic": "- | 0 | -6",
+        "GoalTheme": "- | 0 | 0",
+        "PlayerDown": "- | 0 | 0"
+    }
+}
